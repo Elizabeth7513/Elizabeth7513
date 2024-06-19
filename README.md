@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elizabeth7513
+- 👋 Hi, I’m Elizabeth Tappin
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning about RStudio, Quarto, Tableau, Power Bi...
 - 💞️ I’m looking to collaborate on anything related to R
